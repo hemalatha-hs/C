@@ -1,6 +1,6 @@
 # **C-Based Management Systems**
 
-A collection of modular management systems built using the **C programming language** to streamline various organizational and operational tasks. Each system demonstrates the efficient use of **structures**, **modular programming**, and **user-friendly interfaces** to solve real-world problems.
+A collection of management systems built using the **C programming language** to streamline various organizational and operational tasks. Each system demonstrates the efficient use of **structures**, to solve real-world problems.
 
 ---
 
